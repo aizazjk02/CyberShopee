@@ -1,0 +1,13 @@
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.exe
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.deps.json
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.runtimeconfig.json
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.runtimeconfig.dev.json
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.dll
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\bin\Debug\netcoreapp3.1\CyberShopee_UI.pdb
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.AssemblyInfoInputs.cache
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.AssemblyInfo.cs
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.csproj.CoreCompileInputs.cache
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.dll
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.pdb
+C:\Users\aizaz\Documents\CyberShopee\CyberShopee\CyberShopee_UI\obj\Debug\netcoreapp3.1\CyberShopee_UI.genruntimeconfig.cache
